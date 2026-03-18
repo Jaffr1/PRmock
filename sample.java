@@ -27,5 +27,5 @@ class MyClass{
 }
 
 interface NewInterface{
-    
+    void methodNew();
 }
